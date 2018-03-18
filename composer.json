@@ -1,0 +1,10 @@
+{
+    "name": "ird/hello",
+    "authors": [
+        {
+            "name": "ird",
+            "email": "31051194+ird@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
